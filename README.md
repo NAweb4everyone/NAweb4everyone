@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @NAweb4everyone
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m nabeel afzal
+- 👀 I’m interested in moblie app development
+- 🌱 I’m currently learning flutter development
+
+- 📫 How to reach me nabeelafzal999@gmail.com
 
 <!---
 NAweb4everyone/NAweb4everyone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
